@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "goofies-vue-template"
+    "default": "goofies-vue-template",
+    "test": "hotshots-9001"
   }
 }
